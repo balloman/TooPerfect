@@ -13,6 +13,8 @@
 		<Item Name="Utilities" Type="Folder" URL="../Utilities">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Chauvenet&apos;s criterion.vi" Type="VI" URL="../Chauvenet&apos;s criterion.vi"/>
+		<Item Name="Detect Fit Points.vi" Type="VI" URL="../Detect Fit Points.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
